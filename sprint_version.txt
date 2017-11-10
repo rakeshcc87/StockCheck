@@ -1,0 +1,2 @@
+current_sprint = '17.11.7'
+previous_sprint = '17.11.6'
